@@ -18,7 +18,7 @@ input,button,form{
         <input type="number" name="n" placeholder="n=" >
       <br>
       <input type="number" name="m" placeholder="m=" >  <br>
-        <button type="submit">Yuborish</button>
+     
     </form>
    
 </body>
